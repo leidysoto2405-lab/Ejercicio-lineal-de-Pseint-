@@ -1,0 +1,14 @@
+Algoritmo ejercicio5
+	// 1.definir variable 
+	definir letra como caracter 
+	definir mensaje como caracter 
+	
+	// 2.asignar valor
+	letra <- 'L'
+	// 3.procesar datos 
+	mensaje <- "La letra asignada es: '+letra
+	// 4. imprimir (mensaje)
+	escribir mensaje 
+	
+	
+FinAlgoritmo

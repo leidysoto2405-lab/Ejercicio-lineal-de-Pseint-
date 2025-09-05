@@ -1,0 +1,15 @@
+Algoritmo ejercicio3
+	//1.definir variables
+	definir precio Como Real
+	definir mensaje como caracter 
+	
+	//2.asignar valor
+	precio = 100.525
+	
+	//3.procesar datos 
+	mensaje <- "El precio del articulo es $" +ConvertirATexto(precio)
+	
+	// 4.imprimir mensaje 
+	Escribir mensaje 
+	
+FinAlgoritmo

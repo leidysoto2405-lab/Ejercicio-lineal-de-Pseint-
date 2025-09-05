@@ -1,0 +1,13 @@
+Algoritmo ejercicio2
+	// 1.definir variables 
+	Definir edad Como Entero
+	Definir mensaje como caracter 
+	
+	// 2.asignar valores 
+	edad <- 19
+	// 3.procesar datos 
+	mensaje <- "Tienes:" +ConvertirATexto(edad)+ "años"
+	// 4.imprimir mensaje 
+	Escribir mensaje 
+	
+FinAlgoritmo

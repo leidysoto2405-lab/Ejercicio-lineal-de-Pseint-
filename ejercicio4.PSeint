@@ -1,0 +1,25 @@
+Algoritmo ejercicio4
+	
+	// 1.definir variable 
+	Definir esEstudiante como logico
+	definir mensaje como caracter 
+	
+	// 2.asignar valores
+	esEstudiante <- Verdadero o Falso
+	
+	// 3.procesar datos
+	
+	mensaje <- "¿Es usted estudiante [Verdadeero/Falso]:"
+	
+	// 4.imprimir (mensaje)
+	Si esEstudiante Entonces 
+		Escribir mensaje + "Verdadero"
+	SiNo
+		Escribir mensaje + "Falso"
+		
+	Fin Si
+	
+	
+	
+	
+FinAlgoritmo
